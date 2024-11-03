@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+nav{
+    width: 2000px;
+    height: 80px;
+    background: lightcoral;
+}
+nav li{
+    display: inline;
+    list-style-type: none;  
+}
+nav li a{
+    color: black;
+    list-style-type: none;
+}
+.f{
+    padding-left: 950px;
+    position: relative;
+    width: 290px;
+    height: 90px;
+    top: -50px;
+    font-size: 25px;
+}
+.g{
+    padding-left: 40px;
+    position: relative;
+    width: 290px;
+    height: 90px;
+    top: -50px;
+    font-size: 25px;
+}
+.h{
+    padding-left: 40px;
+    position: relative;
+    width: 290px;
+    height: 90px;
+    top: -50px;
+    font-size: 25px;
+}
+.i{
+    padding-left: 40px;
+    position: relative;
+    width: 290px;
+    height: 90px;
+    top: -50px;
+    font-size: 25px;
+}
+.j{
+    padding-left: 40px;
+    position: relative;
+    width: 290px;
+    height: 90px;
+    top: -50px;
+    font-size: 25px;
+}
+nav li h1{
+    padding: 20px;
+}
+.a{
+    position: relative;
+    width: 500px;
+    height: 300px;
+    left: 200px;
+    top: 90px;
+    padding: 20px;
+}
+.c{
+    position: relative;
+    width: 400px;
+    height: 400px;
+    left: 890px;
+    top: -270px;
+    border-radius: 50%;
+    box-shadow: 3px 4px gray;
+}
+.b{
+    background: grey;
+    height: 360px;
+    margin-top: 50px;
+    padding: 40px;
+    padding-top: 90px;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+}
+.d{
+    margin-top: 20px;
+    margin-left: 90px;
+    padding-left: 80px;
+    gap: 30px;
+    text-align: center;
+}
+.e{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    position: relative;
+    left: 620px;
+}
+.card{
+    max-width: 900px;
+    gap: 80px;
+    text-align: center;
+    margin-left: 200px;
+}
